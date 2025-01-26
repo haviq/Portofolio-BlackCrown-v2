@@ -41,9 +41,8 @@ Give a ⭐️ if you like this project!
 
 ## 📫 Contact
 
-- Website: [your-website.com](https://your-website.com)
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+- GitHub: [@haviq](https://github.com/haviq)
+- LinkedIn: [Haviq](https://linkedin.com/in/viq)
 
 ---
 <p align="center">Made with ❤️ by Hans Project</p>
