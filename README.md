@@ -25,7 +25,7 @@
 
 1. Clone this repository:
 
-git clone https://github.com/yourusername/your-portfolio.git
+git clone (https://github.com/haviq/Portofolio-BlackCrown-v2)
 
 ## 📝 License
 
@@ -33,7 +33,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/yourusername/your-portfolio/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/haviq/Portofolio-BlackCrown-v2)
 
 ## ⭐ Show your support
 
